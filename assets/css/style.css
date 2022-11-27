@@ -1,0 +1,14 @@
+
+.cuadro{
+    height: 200px;
+    width: 200px;
+    border:  black solid 1px;
+}
+.cuadros{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
